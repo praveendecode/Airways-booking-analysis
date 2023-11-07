@@ -12,7 +12,8 @@
 # Process Steps:
 
   ## Web Scraping and Data Analysis:
-  = Collected online data through web scraping.
+  
+  - Collected online data through web scraping.
   - Conducted data preprocessing for analysis.
   - Employed Python for NLP task including topic modeling, sentiment analysis, and word clouds.
   - Extracted valuable insights from the data.
